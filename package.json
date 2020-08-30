@@ -1,0 +1,24 @@
+{
+  "name": "csv_randomusers",
+  "version": "1.0.0",
+  "description": "Criador de csv com 500 usuários ramdômicos\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[n\u001b[F",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TaaatiMachado/CSV_RandomUsers.git"
+  },
+  "keywords": [
+    "node",
+    "node-fetch",
+    "randomusers"
+  ],
+  "author": "Tati Machado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TaaatiMachado/CSV_RandomUsers/issues"
+  },
+  "homepage": "https://github.com/TaaatiMachado/CSV_RandomUsers#readme"
+}
